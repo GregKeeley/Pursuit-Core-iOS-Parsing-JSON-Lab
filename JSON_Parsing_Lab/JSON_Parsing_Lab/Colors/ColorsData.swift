@@ -8,13 +8,26 @@
 
 import Foundation
 
-struct Colors: Codable {
+struct Colors: Decodable {
     let colors = [Color]()
 }
-
 struct Color: Codable {
-    let mode: String
+    let name: ColorName
+    let rgb: RGBValues
 }
+struct RGBValues: Codable {
+    let r = Double()
+    let g = Double()
+    let b = Double()
+}
+struct ColorName: Codable {
+    let name: ColorNameValue
+}
+struct ColorNameValue: Codable {
+    let value: String
+}
+
+
 
 extension Colors {
     static func getColors() -> [Color] {
