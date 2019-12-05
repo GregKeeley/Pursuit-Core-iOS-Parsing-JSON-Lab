@@ -13,6 +13,7 @@
 		C15A8028238ED82400EFD0CD /* weatherAPI.json in Resources */ = {isa = PBXBuildFile; fileRef = C15A8027238ED82400EFD0CD /* weatherAPI.json */; };
 		C15A802A238ED85E00EFD0CD /* WeatherDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15A8029238ED85E00EFD0CD /* WeatherDetailViewController.swift */; };
 		C15A802D238EDD6300EFD0CD /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15A802C238EDD6300EFD0CD /* WeatherData.swift */; };
+		C19264D523989B2C00FADD55 /* RandomUserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C19264D423989B2C00FADD55 /* RandomUserData.swift */; };
 		C1E4E5FF238DDFE200DAEB18 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E4E5FE238DDFE200DAEB18 /* AppDelegate.swift */; };
 		C1E4E601238DDFE200DAEB18 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E4E600238DDFE200DAEB18 /* SceneDelegate.swift */; };
 		C1E4E603238DDFE200DAEB18 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E4E602238DDFE200DAEB18 /* ViewController.swift */; };
@@ -31,6 +32,7 @@
 		C15A8027238ED82400EFD0CD /* weatherAPI.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = weatherAPI.json; sourceTree = "<group>"; };
 		C15A8029238ED85E00EFD0CD /* WeatherDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailViewController.swift; sourceTree = "<group>"; };
 		C15A802C238EDD6300EFD0CD /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		C19264D423989B2C00FADD55 /* RandomUserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUserData.swift; sourceTree = "<group>"; };
 		C1E4E5FB238DDFE200DAEB18 /* JSON_Parsing_Lab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSON_Parsing_Lab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1E4E5FE238DDFE200DAEB18 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1E4E600238DDFE200DAEB18 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				C1E4E616238ECAFB00DAEB18 /* RandomUserViewController.swift */,
+				C19264D423989B2C00FADD55 /* RandomUserData.swift */,
 				C14D6D5F2394324B00918CCC /* RandomUsersData.json */,
 			);
 			name = RandomUsers;
@@ -197,6 +200,7 @@
 				C1E4E613238ECABC00DAEB18 /* WeatherViewController.swift in Sources */,
 				C15A802A238ED85E00EFD0CD /* WeatherDetailViewController.swift in Sources */,
 				C1E4E5FF238DDFE200DAEB18 /* AppDelegate.swift in Sources */,
+				C19264D523989B2C00FADD55 /* RandomUserData.swift in Sources */,
 				C1E4E615238ECAD500DAEB18 /* ColorViewController.swift in Sources */,
 				C14D6D6623946D0600918CCC /* ColorsData.swift in Sources */,
 				C15A802D238EDD6300EFD0CD /* WeatherData.swift in Sources */,

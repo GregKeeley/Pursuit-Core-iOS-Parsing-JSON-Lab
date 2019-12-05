@@ -21,7 +21,7 @@ class ColorViewController: UIViewController {
         print(colors.count)
     }
     func updateUI() {
-        colors = Colors.getColors()
+        colors = ColorsArr.getColors()
     }
 }
 
@@ -32,7 +32,7 @@ extension ColorViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "colorCell", for: indexPath)
         let color = colors[indexPath.row]
-        cell.textLabel?.text = color.name.name.value
+        cell.textLabel?.text = color.name.value.description
         cell.backgroundColor =  UIColor(red: CGFloat(color.rgb.r), green: CGFloat(color.rgb.g), blue: CGFloat(color.rgb.b), alpha: 0.95)
         return cell
     }
