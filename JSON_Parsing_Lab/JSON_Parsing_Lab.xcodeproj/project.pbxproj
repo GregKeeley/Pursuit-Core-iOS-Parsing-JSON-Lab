@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C13B868C2398B5FD00C3506E /* RandomUserDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13B868B2398B5FD00C3506E /* RandomUserDetailViewController.swift */; };
+		C13B868E2398B61200C3506E /* ColorsDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13B868D2398B61200C3506E /* ColorsDetailViewController.swift */; };
 		C14D6D602394324B00918CCC /* RandomUsersData.json in Resources */ = {isa = PBXBuildFile; fileRef = C14D6D5F2394324B00918CCC /* RandomUsersData.json */; };
 		C14D6D6423946C3C00918CCC /* ColorsData.json in Resources */ = {isa = PBXBuildFile; fileRef = C14D6D6323946C3C00918CCC /* ColorsData.json */; };
 		C14D6D6623946D0600918CCC /* ColorsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14D6D6523946D0600918CCC /* ColorsData.swift */; };
@@ -26,6 +28,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C13B868B2398B5FD00C3506E /* RandomUserDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUserDetailViewController.swift; sourceTree = "<group>"; };
+		C13B868D2398B61200C3506E /* ColorsDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsDetailViewController.swift; sourceTree = "<group>"; };
 		C14D6D5F2394324B00918CCC /* RandomUsersData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = RandomUsersData.json; sourceTree = "<group>"; };
 		C14D6D6323946C3C00918CCC /* ColorsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ColorsData.json; sourceTree = "<group>"; };
 		C14D6D6523946D0600918CCC /* ColorsData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsData.swift; sourceTree = "<group>"; };
@@ -61,6 +65,7 @@
 			isa = PBXGroup;
 			children = (
 				C1E4E616238ECAFB00DAEB18 /* RandomUserViewController.swift */,
+				C13B868B2398B5FD00C3506E /* RandomUserDetailViewController.swift */,
 				C19264D423989B2C00FADD55 /* RandomUserData.swift */,
 				C14D6D5F2394324B00918CCC /* RandomUsersData.json */,
 			);
@@ -71,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				C14D6D6323946C3C00918CCC /* ColorsData.json */,
+				C13B868D2398B61200C3506E /* ColorsDetailViewController.swift */,
 				C1E4E614238ECAD500DAEB18 /* ColorViewController.swift */,
 				C14D6D6523946D0600918CCC /* ColorsData.swift */,
 			);
@@ -196,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1E4E617238ECAFB00DAEB18 /* RandomUserViewController.swift in Sources */,
+				C13B868C2398B5FD00C3506E /* RandomUserDetailViewController.swift in Sources */,
 				C1E4E603238DDFE200DAEB18 /* ViewController.swift in Sources */,
 				C1E4E613238ECABC00DAEB18 /* WeatherViewController.swift in Sources */,
 				C15A802A238ED85E00EFD0CD /* WeatherDetailViewController.swift in Sources */,
@@ -204,6 +211,7 @@
 				C1E4E615238ECAD500DAEB18 /* ColorViewController.swift in Sources */,
 				C14D6D6623946D0600918CCC /* ColorsData.swift in Sources */,
 				C15A802D238EDD6300EFD0CD /* WeatherData.swift in Sources */,
+				C13B868E2398B61200C3506E /* ColorsDetailViewController.swift in Sources */,
 				C1E4E601238DDFE200DAEB18 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

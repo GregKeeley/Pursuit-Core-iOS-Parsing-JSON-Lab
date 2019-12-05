@@ -1,266 +1,598 @@
 {
-  "mode": "monochrome",
-  "count": "2",
-  "colors": [
-    {
-      "hex": {
-        "value": "#01122A",
-        "clean": "01122A"
-      },
-      "rgb": {
-        "fraction": {
-          "r": 0.00392156862745098,
-          "g": 0.07058823529411765,
-          "b": 0.16470588235294117
+    "mode": "complement",
+    "count": "6",
+    "colors": [
+        {
+            "hex": {
+                "value": "#825009",
+                "clean": "825009"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5098039215686274,
+                    "g": 0.3137254901960784,
+                    "b": 0.03529411764705882
+                },
+                "r": 130,
+                "g": 80,
+                "b": 9,
+                "value": "rgb(130, 80, 9)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09779614325068864,
+                    "s": 0.8705035971223022,
+                    "l": 0.2725490196078431
+                },
+                "h": 35,
+                "s": 87,
+                "l": 27,
+                "value": "hsl(35, 87%, 27%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09779614325068864,
+                    "s": 0.9307692307692308,
+                    "v": 0.5098039215686274
+                },
+                "value": "hsv(35, 93%, 51%)",
+                "h": 35,
+                "s": 93,
+                "v": 51
+            },
+            "name": {
+                "value": "Rusty Nail",
+                "closest_named_hex": "#86560A",
+                "exact_match_name": false,
+                "distance": 87
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.3846153846153846,
+                    "y": 0.9307692307692308,
+                    "k": 0.4901960784313726
+                },
+                "value": "cmyk(0, 38, 93, 49)",
+                "c": 0,
+                "m": 38,
+                "y": 93,
+                "k": 49
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.3288019607843137,
+                    "Y": 0.3353090196078431,
+                    "Z": 0.08078235294117647
+                },
+                "value": "XYZ(33, 34, 8)",
+                "X": 33,
+                "Y": 34,
+                "Z": 8
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=825009",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=825009"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=825009"
+                }
+            },
+            "_embedded": {}
         },
-        "r": 1,
-        "g": 18,
-        "b": 42,
-        "value": "rgb(1, 18, 42)"
-      },
-      "hsl": {
-        "fraction": {
-          "h": 0.597560975609756,
-          "s": 0.9534883720930231,
-          "l": 0.08431372549019608
+        {
+            "hex": {
+                "value": "#8E5608",
+                "clean": "8E5608"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.5568627450980392,
+                    "g": 0.33725490196078434,
+                    "b": 0.03137254901960784
+                },
+                "r": 142,
+                "g": 86,
+                "b": 8,
+                "value": "rgb(142, 86, 8)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.09701492537313439,
+                    "s": 0.8933333333333333,
+                    "l": 0.29411764705882354
+                },
+                "h": 35,
+                "s": 89,
+                "l": 29,
+                "value": "hsl(35, 89%, 29%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.09701492537313439,
+                    "s": 0.9436619718309859,
+                    "v": 0.5568627450980392
+                },
+                "value": "hsv(35, 94%, 56%)",
+                "h": 35,
+                "s": 94,
+                "v": 56
+            },
+            "name": {
+                "value": "Rusty Nail",
+                "closest_named_hex": "#86560A",
+                "exact_match_name": false,
+                "distance": 222
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0,
+                    "m": 0.39436619718309857,
+                    "y": 0.9436619718309859,
+                    "k": 0.44313725490196076
+                },
+                "value": "cmyk(0, 39, 94, 44)",
+                "c": 0,
+                "m": 39,
+                "y": 94,
+                "k": 44
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.35591529411764705,
+                    "Y": 0.3618588235294118,
+                    "Z": 0.08076784313725491
+                },
+                "value": "XYZ(36, 36, 8)",
+                "X": 36,
+                "Y": 36,
+                "Z": 8
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=8E5608",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=8E5608"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=8E5608"
+                }
+            },
+            "_embedded": {}
         },
-        "h": 215,
-        "s": 95,
-        "l": 8,
-        "value": "hsl(215, 95%, 8%)"
-      },
-      "hsv": {
-        "fraction": {
-          "h": 0.597560975609756,
-          "s": 0.976190476190476,
-          "v": 0.16470588235294117
+        {
+            "hex": {
+                "value": "#07449A",
+                "clean": "07449A"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.027450980392156862,
+                    "g": 0.26666666666666666,
+                    "b": 0.6039215686274509
+                },
+                "r": 7,
+                "g": 68,
+                "b": 154,
+                "value": "rgb(7, 68, 154)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.5975056689342403,
+                    "s": 0.9130434782608695,
+                    "l": 0.3156862745098039
+                },
+                "h": 215,
+                "s": 91,
+                "l": 32,
+                "value": "hsl(215, 91%, 32%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.5975056689342403,
+                    "s": 0.9545454545454545,
+                    "v": 0.6039215686274509
+                },
+                "value": "hsv(215, 95%, 60%)",
+                "h": 215,
+                "s": 95,
+                "v": 60
+            },
+            "name": {
+                "value": "Congress Blue",
+                "closest_named_hex": "#02478E",
+                "exact_match_name": false,
+                "distance": 774
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0.9545454545454545,
+                    "m": 0.5584415584415585,
+                    "y": 0,
+                    "k": 0.39607843137254906
+                },
+                "value": "cmyk(95, 56, 0, 40)",
+                "c": 95,
+                "m": 56,
+                "y": 0,
+                "k": 40
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.21568862745098039,
+                    "Y": 0.24015921568627446,
+                    "Z": 0.6063439215686274
+                },
+                "value": "XYZ(22, 24, 61)",
+                "X": 22,
+                "Y": 24,
+                "Z": 61
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=07449A",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=07449A"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=07449A"
+                }
+            },
+            "_embedded": {}
         },
-        "value": "hsv(215, 98%, 16%)",
-        "h": 215,
-        "s": 98,
-        "v": 16
-      },
-      "name": {
-        "value": "Midnight",
-        "closest_named_hex": "#011635",
-        "exact_match_name": false,
-        "distance": 217
-      },
-      "cmyk": {
-        "fraction": {
-          "c": 0.9761904761904763,
-          "m": 0.5714285714285715,
-          "y": 0,
-          "k": 0.8352941176470589
+        {
+            "hex": {
+                "value": "#0548A6",
+                "clean": "0548A6"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.0196078431372549,
+                    "g": 0.2823529411764706,
+                    "b": 0.6509803921568628
+                },
+                "r": 5,
+                "g": 72,
+                "b": 166,
+                "value": "rgb(5, 72, 166)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.5973084886128364,
+                    "s": 0.9415204678362572,
+                    "l": 0.33529411764705885
+                },
+                "h": 215,
+                "s": 94,
+                "l": 34,
+                "value": "hsl(215, 94%, 34%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.5973084886128364,
+                    "s": 0.9698795180722891,
+                    "v": 0.6509803921568628
+                },
+                "value": "hsv(215, 97%, 65%)",
+                "h": 215,
+                "s": 97,
+                "v": 65
+            },
+            "name": {
+                "value": "Cobalt",
+                "closest_named_hex": "#0047AB",
+                "exact_match_name": false,
+                "distance": 501
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0.9698795180722891,
+                    "m": 0.5662650602409639,
+                    "y": 0,
+                    "k": 0.34901960784313724
+                },
+                "value": "cmyk(97, 57, 0, 35)",
+                "c": 97,
+                "m": 57,
+                "y": 0,
+                "k": 35
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.22655764705882353,
+                    "Y": 0.25310823529411763,
+                    "Z": 0.6527917647058824
+                },
+                "value": "XYZ(23, 25, 65)",
+                "X": 23,
+                "Y": 25,
+                "Z": 65
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=0548A6",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=0548A6"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=0548A6"
+                }
+            },
+            "_embedded": {}
         },
-        "value": "cmyk(98, 57, 0, 84)",
-        "c": 98,
-        "m": 57,
-        "y": 0,
-        "k": 84
-      },
-      "XYZ": {
-        "fraction": {
-          "X": 0.056589019607843134,
-          "Y": 0.06321019607843137,
-          "Z": 0.1650427450980392
+        {
+            "hex": {
+                "value": "#044CB2",
+                "clean": "044CB2"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.01568627450980392,
+                    "g": 0.2980392156862745,
+                    "b": 0.6980392156862745
+                },
+                "r": 4,
+                "g": 76,
+                "b": 178,
+                "value": "rgb(4, 76, 178)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.5977011494252874,
+                    "s": 0.9560439560439562,
+                    "l": 0.35686274509803917
+                },
+                "h": 215,
+                "s": 96,
+                "l": 36,
+                "value": "hsl(215, 96%, 36%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.5977011494252874,
+                    "s": 0.9775280898876405,
+                    "v": 0.6980392156862745
+                },
+                "value": "hsv(215, 98%, 70%)",
+                "h": 215,
+                "s": 98,
+                "v": 70
+            },
+            "name": {
+                "value": "Absolute Zero",
+                "closest_named_hex": "#0048BA",
+                "exact_match_name": false,
+                "distance": 404
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0.9775280898876405,
+                    "m": 0.5730337078651685,
+                    "y": 0,
+                    "k": 0.3019607843137255
+                },
+                "value": "cmyk(98, 57, 0, 30)",
+                "c": 98,
+                "m": 57,
+                "y": 0,
+                "k": 30
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.23904392156862742,
+                    "Y": 0.26689098039215686,
+                    "Z": 0.699315294117647
+                },
+                "value": "XYZ(24, 27, 70)",
+                "X": 24,
+                "Y": 27,
+                "Z": 70
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=044CB2",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=044CB2"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=044CB2"
+                }
+            },
+            "_embedded": {}
         },
-        "value": "XYZ(6, 6, 17)",
-        "X": 6,
-        "Y": 6,
-        "Z": 17
-      },
-      "image": {
-        "bare": "http://placehold.it/300x300.png/01122A/FFFFFF",
-        "named": "http://placehold.it/300x300.png/01122A/FFFFFF&text=Midnight"
-      },
-      "contrast": {
-        "value": "#FFFFFF"
-      },
-      "_links": {
-        "self": {
-          "href": "/id?hex=01122A"
+        {
+            "hex": {
+                "value": "#0250BE",
+                "clean": "0250BE"
+            },
+            "rgb": {
+                "fraction": {
+                    "r": 0.00784313725490196,
+                    "g": 0.3137254901960784,
+                    "b": 0.7450980392156863
+                },
+                "r": 2,
+                "g": 80,
+                "b": 190,
+                "value": "rgb(2, 80, 190)"
+            },
+            "hsl": {
+                "fraction": {
+                    "h": 0.597517730496454,
+                    "s": 0.9791666666666667,
+                    "l": 0.3764705882352941
+                },
+                "h": 215,
+                "s": 98,
+                "l": 38,
+                "value": "hsl(215, 98%, 38%)"
+            },
+            "hsv": {
+                "fraction": {
+                    "h": 0.597517730496454,
+                    "s": 0.9894736842105264,
+                    "v": 0.7450980392156863
+                },
+                "value": "hsv(215, 99%, 75%)",
+                "h": 215,
+                "s": 99,
+                "v": 75
+            },
+            "name": {
+                "value": "Absolute Zero",
+                "closest_named_hex": "#0048BA",
+                "exact_match_name": false,
+                "distance": 176
+            },
+            "cmyk": {
+                "fraction": {
+                    "c": 0.9894736842105264,
+                    "m": 0.5789473684210527,
+                    "y": 0,
+                    "k": 0.2549019607843137
+                },
+                "value": "cmyk(99, 58, 0, 25)",
+                "c": 99,
+                "m": 58,
+                "y": 0,
+                "k": 25
+            },
+            "XYZ": {
+                "fraction": {
+                    "X": 0.24991294117647056,
+                    "Y": 0.27984,
+                    "Z": 0.745763137254902
+                },
+                "value": "XYZ(25, 28, 75)",
+                "X": 25,
+                "Y": 28,
+                "Z": 75
+            },
+            "image": {
+                "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=0250BE",
+                "named": "http://www.thecolorapi.com/id?format=svg&hex=0250BE"
+            },
+            "contrast": {
+                "value": "#000000"
+            },
+            "_links": {
+                "self": {
+                    "href": "/id?hex=0250BE"
+                }
+            },
+            "_embedded": {}
         }
-      },
-      "_embedded": {}
-    },
-    {
-      "hex": {
-        "value": "#0247A9",
-        "clean": "0247A9"
-      },
-      "rgb": {
-        "fraction": {
-          "r": 0.00784313725490196,
-          "g": 0.2784313725490196,
-          "b": 0.6627450980392157
+    ],
+    "seed": {
+        "hex": {
+            "value": "#0047AB",
+            "clean": "0047AB"
         },
-        "r": 2,
-        "g": 71,
-        "b": 169,
-        "value": "rgb(2, 71, 169)"
-      },
-      "hsl": {
-        "fraction": {
-          "h": 0.5978043912175649,
-          "s": 0.976608187134503,
-          "l": 0.3352941176470588
+        "rgb": {
+            "fraction": {
+                "r": 0,
+                "g": 0.2784313725490196,
+                "b": 0.6705882352941176
+            },
+            "r": 0,
+            "g": 71,
+            "b": 171,
+            "value": "rgb(0, 71, 171)"
         },
-        "h": 215,
-        "s": 98,
-        "l": 34,
-        "value": "hsl(215, 98%, 34%)"
-      },
-      "hsv": {
-        "fraction": {
-          "h": 0.5978043912175649,
-          "s": 0.9881656804733728,
-          "v": 0.6627450980392157
+        "hsl": {
+            "fraction": {
+                "h": 0.5974658869395711,
+                "s": 1,
+                "l": 0.3352941176470588
+            },
+            "h": 215,
+            "s": 100,
+            "l": 34,
+            "value": "hsl(215, 100%, 34%)"
         },
-        "value": "hsv(215, 99%, 66%)",
-        "h": 215,
-        "s": 99,
-        "v": 66
-      },
-      "name": {
-        "value": "Cobalt",
-        "closest_named_hex": "#0047AB",
-        "exact_match_name": false,
-        "distance": 80
-      },
-      "cmyk": {
-        "fraction": {
-          "c": 0.9881656804733728,
-          "m": 0.5798816568047337,
-          "y": 0,
-          "k": 0.33725490196078434
+        "hsv": {
+            "fraction": {
+                "h": 0.5974658869395711,
+                "s": 1,
+                "v": 0.6705882352941176
+            },
+            "value": "hsv(215, 100%, 67%)",
+            "h": 215,
+            "s": 100,
+            "v": 67
         },
-        "value": "cmyk(99, 58, 0, 34)",
-        "c": 99,
-        "m": 58,
-        "y": 0,
-        "k": 34
-      },
-      "XYZ": {
-        "fraction": {
-          "X": 0.2224270588235294,
-          "Y": 0.24865176470588235,
-          "Z": 0.6632796078431373
+        "name": {
+            "value": "Cobalt",
+            "closest_named_hex": "#0047AB",
+            "exact_match_name": true,
+            "distance": 0
         },
-        "value": "XYZ(22, 25, 66)",
-        "X": 22,
-        "Y": 25,
-        "Z": 66
-      },
-      "image": {
-        "bare": "http://placehold.it/300x300.png/0247A9/000000",
-        "named": "http://placehold.it/300x300.png/0247A9/000000&text=Cobalt"
-      },
-      "contrast": {
-        "value": "#000000"
-      },
-      "_links": {
-        "self": {
-          "href": "/id?hex=0247A9"
-        }
-      },
-      "_embedded": {}
-    }
-  ],
-  "seed": {
-    "hex": {
-      "value": "#0047AB",
-      "clean": "0047AB"
-    },
-    "rgb": {
-      "fraction": {
-        "r": 0,
-        "g": 0.2784313725490196,
-        "b": 0.6705882352941176
-      },
-      "r": 0,
-      "g": 71,
-      "b": 171,
-      "value": "rgb(0, 71, 171)"
-    },
-    "hsl": {
-      "fraction": {
-        "h": 0.5974658869395711,
-        "s": 1,
-        "l": 0.3352941176470588
-      },
-      "h": 215,
-      "s": 100,
-      "l": 34,
-      "value": "hsl(215, 100%, 34%)"
-    },
-    "hsv": {
-      "fraction": {
-        "h": 0.5974658869395711,
-        "s": 1,
-        "v": 0.6705882352941176
-      },
-      "value": "hsv(215, 100%, 67%)",
-      "h": 215,
-      "s": 100,
-      "v": 67
-    },
-    "name": {
-      "value": "Cobalt",
-      "closest_named_hex": "#0047AB",
-      "exact_match_name": true,
-      "distance": 0
-    },
-    "cmyk": {
-      "fraction": {
-        "c": 1,
-        "m": 0.5847953216374269,
-        "y": 0,
-        "k": 0.3294117647058824
-      },
-      "value": "cmyk(100, 58, 0, 33)",
-      "c": 100,
-      "m": 58,
-      "y": 0,
-      "k": 33
-    },
-    "XYZ": {
-      "fraction": {
-        "X": 0.22060823529411763,
-        "Y": 0.2475505882352941,
-        "Z": 0.6705831372549019
-      },
-      "value": "XYZ(22, 25, 67)",
-      "X": 22,
-      "Y": 25,
-      "Z": 67
+        "cmyk": {
+            "fraction": {
+                "c": 1,
+                "m": 0.5847953216374269,
+                "y": 0,
+                "k": 0.3294117647058824
+            },
+            "value": "cmyk(100, 58, 0, 33)",
+            "c": 100,
+            "m": 58,
+            "y": 0,
+            "k": 33
+        },
+        "XYZ": {
+            "fraction": {
+                "X": 0.22060823529411763,
+                "Y": 0.2475505882352941,
+                "Z": 0.6705831372549019
+            },
+            "value": "XYZ(22, 25, 67)",
+            "X": 22,
+            "Y": 25,
+            "Z": 67
+        },
+        "image": {
+            "bare": "http://www.thecolorapi.com/id?format=svg&named=false&hex=0047AB",
+            "named": "http://www.thecolorapi.com/id?format=svg&hex=0047AB"
+        },
+        "contrast": {
+            "value": "#000000"
+        },
+        "_links": {
+            "self": {
+                "href": "/id?hex=0047AB"
+            }
+        },
+        "_embedded": {}
     },
     "image": {
-      "bare": "http://placehold.it/300x300.png/0047AB/000000",
-      "named": "http://placehold.it/300x300.png/0047AB/000000&text=Cobalt"
-    },
-    "contrast": {
-      "value": "#000000"
+        "bare": "http://www.thecolorapi.com/scheme?format=svg&named=false&hex=0047AB&mode=complement&count=6",
+        "named": "http://www.thecolorapi.com/scheme?format=svg&hex=0047AB&mode=complement&count=6"
     },
     "_links": {
-      "self": {
-        "href": "/id?hex=0047AB"
-      }
+        "self": "/scheme?hex=0047AB&mode=complement&count=6",
+        "schemes": {
+            "monochrome": "/scheme?hex=0047AB&mode=monochrome&count=6",
+            "monochrome-dark": "/scheme?hex=0047AB&mode=monochrome-dark&count=6",
+            "monochrome-light": "/scheme?hex=0047AB&mode=monochrome-light&count=6",
+            "analogic": "/scheme?hex=0047AB&mode=analogic&count=6",
+            "complement": "/scheme?hex=0047AB&mode=complement&count=6",
+            "analogic-complement": "/scheme?hex=0047AB&mode=analogic-complement&count=6",
+            "triad": "/scheme?hex=0047AB&mode=triad&count=6",
+            "quad": "/scheme?hex=0047AB&mode=quad&count=6"
+        }
     },
     "_embedded": {}
-  },
-  "_links": {
-    "self": "/scheme?hex=0047AB&mode=monochrome&count=2",
-    "schemes": {
-      "monochrome": "/scheme?hex=0047AB&mode=monochrome&count=2",
-      "monochrome-dark": "/scheme?hex=0047AB&mode=monochrome-dark&count=2",
-      "monochrome-light": "/scheme?hex=0047AB&mode=monochrome-light&count=2",
-      "analogic": "/scheme?hex=0047AB&mode=analogic&count=2",
-      "complement": "/scheme?hex=0047AB&mode=complement&count=2",
-      "analogic-complement": "/scheme?hex=0047AB&mode=analogic-complement&count=2",
-      "triad": "/scheme?hex=0047AB&mode=triad&count=2",
-      "quad": "/scheme?hex=0047AB&mode=quad&count=2"
-    }
-  },
-  "_embedded": {}
 }
