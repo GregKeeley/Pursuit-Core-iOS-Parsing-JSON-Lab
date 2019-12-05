@@ -33,7 +33,8 @@ extension ColorViewController: UITableViewDataSource {
         let cell = tableView.dequeueReusableCell(withIdentifier: "colorCell", for: indexPath)
         let color = colors[indexPath.row]
         cell.textLabel?.text = color.name.value.description
-        cell.backgroundColor =  UIColor(red: CGFloat(color.rgb.r), green: CGFloat(color.rgb.g), blue: CGFloat(color.rgb.b), alpha: 0.95)
+        cell.backgroundColor = UIColor(red: CGFloat(color.rgb.r), green: CGFloat(color.rgb.g), blue: CGFloat(color.rgb.b), alpha: 1.0)
+        print(color.rgb.r, color.rgb.g, color.rgb.b)
         return cell
     }
 }
